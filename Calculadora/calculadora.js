@@ -71,21 +71,21 @@ switch (operacao){
     case 1:
         soma();
         break;
-        case 2:
-            subtracao();
-            break;
-            case 3:
-                multiplicacao();
-                break;
-                case 4:
-                    divisao_real();
-                    break;
-                    case 5:
-                        divisao_inteira();
-                        break;
-                        case 6:
-                            potenciacao();
-                            break;
+    case 2:
+        subtracao();
+        break;
+    case 3:
+        multiplicacao();
+        break;
+    case 4:
+        divisao_real();
+        break;
+    case 5:
+        divisao_inteira();
+        break;
+    case 6:
+        potenciacao();
+        break;
 
 
                 
